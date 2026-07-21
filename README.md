@@ -1,6 +1,6 @@
 # Social Media Backend
 
-A scalable and secure backend application for a **Social Media platform**, built with **Node.js**, **TypeScript**, and **MongoDB**. The project provides RESTful APIs for user authentication, profile management, posts, comments, likes, and social interactions while following a clean, modular, and maintainable architecture.
+A scalable and secure backend application for a **Social Media platform**, built with **Node.js**, **JavaScript**, and **MongoDB**. The project provides RESTful APIs for user authentication, profile management, posts, comments, likes, and social interactions while following a clean, modular, and maintainable architecture.
 
 ##  Features
 
