@@ -45,7 +45,7 @@ src/
 └── app.ts
 ```
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/your-username/social-media-backend.git
