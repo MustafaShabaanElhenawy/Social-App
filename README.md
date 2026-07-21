@@ -21,7 +21,7 @@ A scalable and secure backend application for a **Social Media platform**, built
 
 ##  Tech Stack
 
-- TypeScript
+- JavaScript
 - Node.js
 - Express.js
 - MongoDB
